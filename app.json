@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/signIn/index",
+    "pages/signUp/index",
+    "pages/commodity/index",
+    "pages/courseList/index",
+    "pages/tidings/index",
+    "pages/venueList/index",
+    "pages/personal/index",
+    "pages/search/search",
+    "pages/404/404"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
